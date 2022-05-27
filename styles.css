@@ -94,12 +94,12 @@ cursor: pointer;
 .heading{
 display:grid;
 justify-content: center;
-grid-gap: 88px;
+grid-gap: 53px;
 }
 
   .header-heading{
     justify-content: center;
-    font-size: 3.1rem;
+    font-size: 2.7rem;
     text-align: center;
     font-family: 'Fraunces', serif;
     font-weight: 700;
@@ -186,15 +186,15 @@ transform: scale(0);
 }
 
 .first-heading{
-  font-size: 2.3rem;
+  font-size: 2.1rem;
   font-weight: 900;
 
 }
 
 .first-paragraph{
-  font-size: 1.3rem;
+  font-size: 1.1rem;
   font-weight: 600;
-  letter-spacing: 1px;
+  letter-spacing: 0.5px;
   line-height: 1.4;
 
 }
@@ -363,9 +363,9 @@ transform: scale(0);
 
 .fifth-paragraph{
 color: var(--color-Verydarkgrayishblue);
-font-size: 1.3rem;
+font-size: 1.1rem;
 font-weight: 600;
 letter-spacing: 0.2px;
-line-height: 1.8;
+line-height: 1.5;
 
 }
